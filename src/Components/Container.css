@@ -1,0 +1,73 @@
+.card{
+    width: 25rem;
+    height: fit-content;
+    margin: 3rem;
+}
+.c{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card-body button{
+    border-radius: 8px;
+    color: black;
+    padding: .8em 2em;
+    background-color: red;
+
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    
+}
+.sp{
+    color: red;
+    font-size: 1.5em;
+}
+.card-img{
+    width: 12em;
+}
+
+.hp{
+    width: 6em;
+    color: red;
+    font-size: 3.5rem;
+    margin-top: 2em;
+    font-weight: bolder;
+}
+
+
+.bg img{
+    size: 30rem;
+}
+.app{
+    text-decoration: none;
+    flex-wrap: wrap;
+    font-size: 1rem;
+    color: red;
+
+}
+
+.bg{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cp{
+    margin-top: 0.5em;
+    font-size: 4.5em;
+    color: red;
+    font-weight: bolder;
+}
+.imgs img{
+    width: 2.5em;
+}
+.imgs{
+    display: flex;
+    justify-content: space-evenly;
+}
+.imgs a{
+    width: 3em;
+}
+

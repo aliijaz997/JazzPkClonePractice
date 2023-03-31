@@ -1,0 +1,25 @@
+.navbar-brand img{
+    width: 40px;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.rightnav{
+    display: flex;
+    justify-content: center;
+    padding-top: 0.5em;
+    flex-wrap: wrap;
+}
+ 
+.rightnav1{
+    padding-left: 2em;    
+    padding-right: 2em;
+    color: red;    
+}
+.nav-item{
+    padding-left: 2em;
+    padding-right: 2em;
+}

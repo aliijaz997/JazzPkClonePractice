@@ -1,0 +1,12 @@
+.Simgs{
+    width: 25rem;
+
+}
+.carousel-control-next{
+    background-color: red;
+    width: 5rem;
+}
+.carousel-control-prev{
+    background-color: red;
+    width: 5rem;
+}
